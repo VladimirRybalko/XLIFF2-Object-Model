@@ -17,3 +17,6 @@ obj
 
 .vs
 
+.DS_Store
+
+*.idea/
